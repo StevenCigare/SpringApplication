@@ -1,2 +1,2 @@
 # SpringApplication
-Java Spring application for educational purposes
+Java Spring application with POSTGRESQL for educational purposes
